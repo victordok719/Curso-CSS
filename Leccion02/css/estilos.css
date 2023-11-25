@@ -1,0 +1,19 @@
+h1{
+  text-align: center;
+    
+}
+
+
+
+.solido{
+  text-align: center;
+  border: solid red;
+  border-width: 5px;
+  border-radius: 10px;
+}
+
+
+.redondeado{
+  border: 5px solid blueviolet;
+  border-radius: 20px 0px 10px 0px;
+}
